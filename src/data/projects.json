@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AchieveHub",
+    "imageSrc": "projects/planetachieve.png",
+    "description": "C'est un site web qui propose un service TodoList partagé .",
+    "skills": ["PHP", "HTML", "CSS", "JavaScript"],
+    "apercu": "https://achieve.impin.fr",
+    "source": "https://github.com/DamienSTO/ToDoListBTSEXAM.git"
+  },
+  {
+    "title": "Portfolio en React",
+    "imageSrc": "projects/react-portfolio.png",
+    "description": "Projet web afin de faire un portfolio en React 100%  .                    ",
+    "skills": ["React", "Node", "JavaScript"],
+    "apercu": "http://localhost:3000/skills",
+    "source": "https://github.com/DamienSTO/porfolio-cristian.git"
+  },
+
+  {
+    "title": "Veille Technologique",
+    "imageSrc": "projects/project.png",
+    "description": "La Réaliter Virtuelle",
+    "skills": [],
+    "apercu": "vt/vt.html"
+  }
+]

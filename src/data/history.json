@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Developeur d'application Interne",
+    "organisation": "Caisse Nationale de l'Assurance Maladie",
+    "startDate": "Novembre , 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Applications de trie de données",
+      "Optimisation de travail"
+    ],
+    "imageSrc": "history/am3.png"
+  },
+  {
+    "role": "Stage Developeur de Site Web",
+    "organisation": "Shape Sharped Games",
+    "startDate": "Avril, 2023",
+    "endDate": "Juin, 2023",
+    "experiences": [
+      "Travailler sur l'avancement d'un site web essentiellent produit en React"
+    ],
+    "imageSrc": "history/SHG.png"
+  }
+]
