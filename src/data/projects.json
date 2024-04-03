@@ -7,6 +7,12 @@
     "apercu": "https://achieve.impin.fr",
     "source": "https://github.com/DamienSTO/ToDoListBTSEXAM.git"
   },
+  {
+    "title": "Synthèse",
+    "imageSrc": "projects/Synthèses professionnelles .png",
+    "description": "Synthèses de réalisation professionnelles",
+    "apercu": "vt/SP.html"
+  },
 
   {
     "title": "Veille Technologique",
