@@ -9,9 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>CIOBANU Damien</h1>
         <p className={styles.description}>
-          Je suis un développeur full-stack avec 3 ans d'expérience dans
-          l'utilisation de React et NodeJS. N'hésitez pas à me contacter si vous
-          souhaitez en savoir plus !
+          Je suis un développeur Front-End et Back-End avec 2 ans d'expérience
+          dans l'utilisation de React et JavaScript. N'hésitez pas à me
+          contacter si vous souhaitez en savoir plus !
         </p>
         <a href="mailto:damienciobanu@gmail.com" className={styles.contactBtn}>
           Contactez moi !
