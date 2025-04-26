@@ -26,5 +26,9 @@
   {
     "title": "PHP",
     "imageSrc": "skills/php2.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
   }
 ]
