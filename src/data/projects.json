@@ -6,19 +6,5 @@
     "skills": ["PHP", "HTML", "CSS", "JavaScript"],
     "apercu": "https://achieve.impin.fr",
     "source": "https://github.com/DamienSTO/ToDoListBTSEXAM.git"
-  },
-  {
-    "title": "Synthèse",
-    "imageSrc": "projects/Synthèses professionnelles .png",
-    "description": "Synthèses de réalisation professionnelles",
-    "apercu": "https://imgur.com/a/w20Kzm6"
-  },
-
-  {
-    "title": "Veille Technologique",
-    "imageSrc": "projects/project.png",
-    "description": "La Réalité Virtuelle",
-    "skills": [],
-    "apercu": "https://damiensto.github.io"
   }
 ]
